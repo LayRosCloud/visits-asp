@@ -1,0 +1,10 @@
+﻿@model LearnAsp.Domain.Visit;
+@{
+}
+
+<h1>Полная информация о визите @Model.Id</h1>
+<h3>Дата создания @Model.CreatedAt</h3>
+<h2>Информация о пользователе</h2>
+<p>Идентификатор пользователя @Model.UserId</p>
+<p>Проблема пользователя @Model.Problem.Name</p>
+<p>Цель пользователя @Model.Target</p>

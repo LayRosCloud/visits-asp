@@ -1,0 +1,28 @@
+﻿@model LearnAsp.Domain.Visit;
+@{
+}
+
+<form method="post" asp-action="Create" asp-controller="Visit">
+    <div class="form-group">
+        <label asp-for="Target">Цель: </label>
+        <input asp-for="Target" type="text" placeholder="Введите цель:" />
+        <span class="text-danger" asp-validation-for="Target"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Status">Статус: </label>
+        <select asp-for="Status" asp-items="@Html.GetEnumSelectList<LearnAsp.Domain.Status>()">
+            <option>Выберите</option>
+        </select>
+        <span class="text-danger" asp-validation-for="Status"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ProblemId">Проблема: </label>
+        <select asp-for="ProblemId" asp-items="@ViewBag.Problems">
+            <option>Выберите</option>
+        </select>
+        <span class="text-danger" asp-validation-for="ProblemId"></span>
+    </div>
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Сохранить</button>
+    </div>
+</form>

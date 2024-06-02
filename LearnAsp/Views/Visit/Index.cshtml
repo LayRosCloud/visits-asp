@@ -1,0 +1,27 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    string idUserAuth = Context.Request.Headers["uid-user"];
+}
+@model IEnumerable<LearnAsp.Domain.Visit>
+<a asp-controller="Visit" asp-action="Create" class="btn btn-primary">Добавить</a>
+
+@foreach(var item in Model)
+{
+    <div class="card">
+        <h3>Проблема: @item.Problem.Name</h3>
+        <h3>Дата визита: @item.CreatedAt</h3>
+        @if(item.User != null)
+        {
+            <h3>Клиент: @item.User.Login</h3>
+        }
+        else
+        {
+            <h3>Клиент не указан</h3>
+        }
+        <a asp-action="Details" asp-controller="Visit" asp-route-id="@item.Id">Больше</a>
+        <a asp-action="Edit" asp-controller="Visit" asp-route-id="@item.Id">Изменить</a>
+    </div>
+    
+}

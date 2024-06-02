@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Пользователи";
+}
+@model LearnAsp.Models.LoginViewModel
+
+
+<form method="post" asp-action="Login" asp-controller="Account">
+    <input asp-for="Login" type="text" />
+    <input asp-for="Password" type="password" />
+    <button type="submit" class="btn btn-primary">Войти</button>
+</form>

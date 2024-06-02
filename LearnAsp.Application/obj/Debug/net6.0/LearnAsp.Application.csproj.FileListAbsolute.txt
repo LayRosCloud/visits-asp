@@ -1,0 +1,15 @@
+C:\Users\betrayal\source\repos\LearnAsp\LearnAsp.Application\bin\Debug\net6.0\LearnAsp.Application.deps.json
+C:\Users\betrayal\source\repos\LearnAsp\LearnAsp.Application\bin\Debug\net6.0\LearnAsp.Application.dll
+C:\Users\betrayal\source\repos\LearnAsp\LearnAsp.Application\bin\Debug\net6.0\LearnAsp.Application.pdb
+C:\Users\betrayal\source\repos\LearnAsp\LearnAsp.Application\bin\Debug\net6.0\LearnAsp.Domain.dll
+C:\Users\betrayal\source\repos\LearnAsp\LearnAsp.Application\bin\Debug\net6.0\LearnAsp.Domain.pdb
+C:\Users\betrayal\source\repos\LearnAsp\LearnAsp.Application\obj\Debug\net6.0\LearnAsp.Application.csproj.AssemblyReference.cache
+C:\Users\betrayal\source\repos\LearnAsp\LearnAsp.Application\obj\Debug\net6.0\LearnAsp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\betrayal\source\repos\LearnAsp\LearnAsp.Application\obj\Debug\net6.0\LearnAsp.Application.AssemblyInfoInputs.cache
+C:\Users\betrayal\source\repos\LearnAsp\LearnAsp.Application\obj\Debug\net6.0\LearnAsp.Application.AssemblyInfo.cs
+C:\Users\betrayal\source\repos\LearnAsp\LearnAsp.Application\obj\Debug\net6.0\LearnAsp.Application.csproj.CoreCompileInputs.cache
+C:\Users\betrayal\source\repos\LearnAsp\LearnAsp.Application\obj\Debug\net6.0\LearnAsp.Application.csproj.CopyComplete
+C:\Users\betrayal\source\repos\LearnAsp\LearnAsp.Application\obj\Debug\net6.0\LearnAsp.Application.dll
+C:\Users\betrayal\source\repos\LearnAsp\LearnAsp.Application\obj\Debug\net6.0\refint\LearnAsp.Application.dll
+C:\Users\betrayal\source\repos\LearnAsp\LearnAsp.Application\obj\Debug\net6.0\LearnAsp.Application.pdb
+C:\Users\betrayal\source\repos\LearnAsp\LearnAsp.Application\obj\Debug\net6.0\ref\LearnAsp.Application.dll

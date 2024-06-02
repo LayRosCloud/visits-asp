@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LearnAsp.Domain/1.0.0": {
+        "runtime": {
+          "LearnAsp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LearnAsp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

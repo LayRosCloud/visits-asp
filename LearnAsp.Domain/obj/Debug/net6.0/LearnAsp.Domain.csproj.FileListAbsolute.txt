@@ -1,0 +1,11 @@
+C:\Users\betrayal\source\repos\LearnAsp\LearnAsp.Domain\bin\Debug\net6.0\LearnAsp.Domain.deps.json
+C:\Users\betrayal\source\repos\LearnAsp\LearnAsp.Domain\bin\Debug\net6.0\LearnAsp.Domain.dll
+C:\Users\betrayal\source\repos\LearnAsp\LearnAsp.Domain\bin\Debug\net6.0\LearnAsp.Domain.pdb
+C:\Users\betrayal\source\repos\LearnAsp\LearnAsp.Domain\obj\Debug\net6.0\LearnAsp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\betrayal\source\repos\LearnAsp\LearnAsp.Domain\obj\Debug\net6.0\LearnAsp.Domain.AssemblyInfoInputs.cache
+C:\Users\betrayal\source\repos\LearnAsp\LearnAsp.Domain\obj\Debug\net6.0\LearnAsp.Domain.AssemblyInfo.cs
+C:\Users\betrayal\source\repos\LearnAsp\LearnAsp.Domain\obj\Debug\net6.0\LearnAsp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\betrayal\source\repos\LearnAsp\LearnAsp.Domain\obj\Debug\net6.0\LearnAsp.Domain.dll
+C:\Users\betrayal\source\repos\LearnAsp\LearnAsp.Domain\obj\Debug\net6.0\refint\LearnAsp.Domain.dll
+C:\Users\betrayal\source\repos\LearnAsp\LearnAsp.Domain\obj\Debug\net6.0\LearnAsp.Domain.pdb
+C:\Users\betrayal\source\repos\LearnAsp\LearnAsp.Domain\obj\Debug\net6.0\ref\LearnAsp.Domain.dll

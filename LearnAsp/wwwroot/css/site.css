@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #EDEDED
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5px 15px;
+}
+
+input {
+    padding: 5px 15px;
+    outline: none;
+    border: 1px solid #076EF8;
+}
+
+.back {
+    background: black;
+    opacity: 0.5;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: 111;
+}
+
+.show {
+    display: block;
+}
+
+.hidden {
+    display: none;
+}
+
+
+.btn {
+    padding: 5px 15px;
+    outline: none;
+    border-radius: 5px;
+}
+
+
+.btn-primary {
+    background-color: #076EF8;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+
+.card {
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group label {
+    font-weight: bold;
+    color: dimgray;
+}
+
+.text-danger{
+    color: red;
+}
